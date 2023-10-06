@@ -1,4 +1,4 @@
-# DIR Projector
+# shockpkg resedit
 
 Repacked resedit with both esm and cjs support
 
