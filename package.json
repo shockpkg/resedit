@@ -1,7 +1,7 @@
 {
 	"name": "@shockpkg/resedit",
 	"description": "Repacked resedit with both esm and cjs support",
-	"version": "0.0.0",
+	"version": "2.0.0",
 	"keywords": [
 		"resedit"
 	],
