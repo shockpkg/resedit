@@ -8,7 +8,7 @@ Repacked resedit with both esm and cjs support
 [![size](https://packagephobia.now.sh/badge?p=@shockpkg/resedit)](https://packagephobia.now.sh/result?p=@shockpkg/resedit)
 [![downloads](https://img.shields.io/npm/dm/@shockpkg/resedit.svg)](https://npmcharts.com/compare/@shockpkg/resedit?minimal=true)
 
-[![Build Status](https://github.com/shockpkg/resedit/workflows/main/badge.svg?branch=master)](https://github.com/shockpkg/resedit/actions?query=workflow%3Amain+branch%3Amaster)
+[![Build Status](https://github.com/shockpkg/resedit/workflows/main/badge.svg)](https://github.com/shockpkg/resedit/actions?query=workflow%3Amain+branch%3Amaster)
 
 # Overview
 
