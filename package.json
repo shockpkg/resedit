@@ -24,7 +24,7 @@
 		"node": ">=14"
 	},
 	"scripts": {
-		"clean": "rimraf *.log* dts esm cjs",
+		"clean": "rimraf dts esm cjs",
 		"build": "rollup -c",
 		"all": "npm run clean && npm run build",
 		"prepack": "npm run clean && npm run build"
